@@ -5,7 +5,7 @@ module "s3" {
   depends_on = [ module.vpc ]
 }
 
-module "vpc" {
+module "VPC" {
   source   = "./vpc"
   cidr     = var.cidr
   vpc_name = var.vpc_name
