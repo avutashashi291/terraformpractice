@@ -6,7 +6,7 @@ module "s3" {
 }
 
 module "VPC" {
-  source   = "./vpc"
+  source   = "./VPC"
   cidr     = var.cidr
   vpc_name = var.vpc_name
 
