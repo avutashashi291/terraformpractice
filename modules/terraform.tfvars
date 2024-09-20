@@ -1,14 +1,14 @@
 bucket = {
   bucket1 = {
-    bucket_name = "shahsi-221"
+    bucket_name = "shahsi-tfff1"
 
   },
   bucket2 = {
-    bucket_name = "shashi-121"
+    bucket_name = "shashi-tff2"
 
   },
   bucket3 = {
-    bucket_name = "shashi-2123"
+    bucket_name = "shashi-tff3"
 
   }
 }
